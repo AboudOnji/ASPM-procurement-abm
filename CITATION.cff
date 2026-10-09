@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ASPM: Adaptive-Supplier Procurement Model"
+type: software
+authors:
+  - family-names: "Barsekh-Onji"
+    given-names: "Aboud"
+    orcid: "https://orcid.org/0009-0004-5440-8092"
+    affiliation: "Instituto Politécnico Nacional, Escuela Superior de Comercio y Administración"
+license: MIT
+date-released: "2026-10-09"
+abstract: "Agent-based model of public procurement under algorithmic allocation with learning suppliers, verification, rings, a performance record and a discretionary-regime control."
+references:
+  - type: article
+    authors:
+      - family-names: "Barsekh-Onji"
+        given-names: "Aboud"
+      - family-names: "Cardoso Espinosa"
+        given-names: "Edgar Oliver"
+    title: "The Algorithmic Bureaucrat: Dismantling Clientelist Networks in Public Procurement Through Agent-Based Modeling"
+    journal: "Urban Governance"
+    volume: 6
+    issue: 3
+    year: 2026
+    doi: "10.1177/26643286261493873"
